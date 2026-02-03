@@ -1,0 +1,5 @@
+slstatus
+*.o
+*.tar.gz
+*.rej
+*.orig
