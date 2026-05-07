@@ -57,7 +57,7 @@
 			char *symbol;
 		} map[] = {
 			{ "Charging",    "󰂄" },
-			{ "Discharging", "󰁿" },
+			{ "Discharging", "󰂌" },
 			{ "Full",        "󰁹" },
 			{ "Not charging", "󰂃" },
 		};
